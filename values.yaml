@@ -1,7 +1,0 @@
-
-git: 
-  url: git@bitbucket.org:apg3727/test1.git
-  branch: master
-  readonly: true
-sync:
-  interval: "1m"
